@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express in azure' });
+  res.render('index', { title: 'Express in Azure' });
 };
